@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Camion
+comment1.params=
+comment1.target=Camion()
+comment10.params=
+comment10.target=void\ arrancar()
+comment11.params=
+comment11.target=void\ parar()
+comment2.params=ejes\ cargaMax\ categoria
+comment2.target=Camion(int,\ int,\ java.lang.String)
+comment3.params=
+comment3.target=int\ getEjes()
+comment4.params=ejes
+comment4.target=void\ setEjes(int)
+comment5.params=
+comment5.target=int\ getCargaMax()
+comment6.params=cargaMax
+comment6.target=void\ setCargaMax(int)
+comment7.params=
+comment7.target=java.lang.String\ getCategoria()
+comment8.params=categoria
+comment8.target=void\ setCategoria(java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=12

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Geometria
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ Desarrollaremos\ una\ aplicaci\u00F3n\ Java\ que\ deber\u00E1\ usar\ \n\ la\ interfaz\ FiguraGeometrica\ y\ crear\ una\ clase\ por\ cada\ figura\n\ geom\u00E9trica\ de\ la\ que\ calcular\u00E1\ el\ \u00E1rea\:\ \n\ cuadrado,\ c\u00EDrculo,\ rect\u00E1ngulo\ y\ tri\u00E1ngulo.\n
+numComments=2
